@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CqATtRAxpcTfi/Mi4755WzQ1Ousfq4o4kbQgxeKlMstBoTpNjogu1KPsmCL1u7T7BVg3sk2qaIon8Vnvby4FMg==",
+  "success": true,
+  "projectFilePath": "C:\\senk\\AD8- master\\test\\Skoropechat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дима\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\senk\mmm-master\test\bin\Debug\net6.0\Skoropechat.exe
+C:\senk\mmm-master\test\bin\Debug\net6.0\Skoropechat.deps.json
+C:\senk\mmm-master\test\bin\Debug\net6.0\Skoropechat.runtimeconfig.json
+C:\senk\mmm-master\test\bin\Debug\net6.0\Skoropechat.dll
+C:\senk\mmm-master\test\bin\Debug\net6.0\Skoropechat.pdb
+C:\senk\mmm-master\test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\senk\mmm-master\test\obj\Debug\net6.0\Skoropechat.csproj.AssemblyReference.cache
+C:\senk\mmm-master\test\obj\Debug\net6.0\Skoropechat.GeneratedMSBuildEditorConfig.editorconfig
+C:\senk\mmm-master\test\obj\Debug\net6.0\Skoropechat.AssemblyInfoInputs.cache
+C:\senk\mmm-master\test\obj\Debug\net6.0\Skoropechat.AssemblyInfo.cs
+C:\senk\mmm-master\test\obj\Debug\net6.0\Skoropechat.csproj.CoreCompileInputs.cache
+C:\senk\mmm-master\test\obj\Debug\net6.0\Skoropechat.csproj.CopyComplete
+C:\senk\mmm-master\test\obj\Debug\net6.0\Skoropechat.dll
+C:\senk\mmm-master\test\obj\Debug\net6.0\refint\Skoropechat.dll
+C:\senk\mmm-master\test\obj\Debug\net6.0\Skoropechat.pdb
+C:\senk\mmm-master\test\obj\Debug\net6.0\Skoropechat.genruntimeconfig.cache
+C:\senk\mmm-master\test\obj\Debug\net6.0\ref\Skoropechat.dll
